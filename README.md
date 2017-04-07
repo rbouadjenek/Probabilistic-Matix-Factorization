@@ -1,5 +1,5 @@
 # PMF
-This project implements the basic matrix factorization algorithm (PMF).
+This project implements the basic probabilistic matrix factorization algorithm (PMF).
 Please contact me if you have questions:
 - Mohamed Reda Bouadjenek: reda.bouadjenek@unimelb.edu.au or rbouadjenek@gmail.com 
 
