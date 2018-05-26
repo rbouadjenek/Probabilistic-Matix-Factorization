@@ -132,7 +132,7 @@ public class Solver {
 //        double sparsity = (double) r.getDataSize() * 100 / ((double) r.getRowDimension() * r.getColumnDimension());
 //        System.out.println("R=[" + r.getRowDimension() + "," + r.getColumnDimension() + "]= " + r.getDataSize() + " (sparsity= " + sparsity + "%)");
 //        System.out.println(r);
-        Solver s = new Solver(r, 2, 120, 0.02, true);
+        Solver s = new Solver(r, 2, 120, 0.02, false);
         s.solve();
         long end = System.currentTimeMillis();
         System.err.println("Global Execution time: " + Functions.getTimer(end - start) + ".");
