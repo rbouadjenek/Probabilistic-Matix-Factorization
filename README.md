@@ -1,4 +1,4 @@
-# PMF
+# Probabilistic Matix Factorization
 This project contains a very efficient implementation of the basic probabilistic matrix factorization algorithm (PMF).
 Please contact me if you have questions:
 - Mohamed Reda Bouadjenek: rbouadjenek@gmail.com 
